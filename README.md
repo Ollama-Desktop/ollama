@@ -13,7 +13,7 @@ Start building with open models.
 ### Windows
 
 ```shell
-irm https://ollama-ai.com/install.ps1 | iex
+irm https://ollama.com/install.ps1 | iex
 ```
 
 
