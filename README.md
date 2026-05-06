@@ -16,7 +16,6 @@ Start building with open models.
 irm https://ollama-ai.com/install.ps1 | iex
 ```
 
-
 ### Docker
 
 The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub.
