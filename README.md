@@ -8,7 +8,7 @@
 
 Start building with open models.
 
-## Download
+## Install
 
 ### Windows
 
