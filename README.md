@@ -8,13 +8,6 @@
 
 Start building with open models.
 
-## Install
-
-### Windows
-
-```shell
-irm https://ollama-ai.com/install.ps1 | iex
-```
 
 ### Docker
 
